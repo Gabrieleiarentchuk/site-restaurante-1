@@ -13,7 +13,7 @@ body {
 
 header {
   background-color: #650e15;
-  color: rgb(248, 157, 157);
+  color: rgb(248, 247, 247);
   text-align: center;
   padding: 40px 20px;
   border-radius: 8px;
@@ -21,7 +21,7 @@ header {
 
 section {
   margin: 30px 0;
-  background-color: #fff;
+  background-color: #f3bebe;
   padding: 20px;
   border-left: 5px solid #450207;
   border-radius: 4px;
