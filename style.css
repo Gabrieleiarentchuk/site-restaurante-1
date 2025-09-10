@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #9f9e9e;
+  background-color: #c7c4c4;
   color: #1e1d1d;
   padding: 20px;
 }
@@ -42,6 +42,6 @@ li {
 
 footer {
   text-align: center;
-  color: #363636;
+  color: #747373;
   margin-top: 40px;
 }
