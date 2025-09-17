@@ -47,15 +47,15 @@ footer {
 }
 .image-item {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
   .image-caption {
   font-weight: bold;
-  margin-top: 5px;
+  margin-top: 9px;
 }
 
   img {
-  width: 17px;
-  height: 17px;
+  width: 200px;
+  height: 100px;
 }
