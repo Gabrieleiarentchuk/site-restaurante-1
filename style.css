@@ -52,10 +52,10 @@ footer {
 
   .image-caption {
   font-weight: bold;
-  margin-top: 9px;
+  margin-top: 5px;
 }
 
   img {
-  width: 200px;
-  height: 100px;
+  width: 500px;
+  height: 500px;
 }
